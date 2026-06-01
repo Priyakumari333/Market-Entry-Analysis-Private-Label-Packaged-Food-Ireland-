@@ -1,6 +1,6 @@
 # 🛒 FMCG Market Entry Analysis- Irish Private Label Packaged Food Market
 
-**Tool:** Power BI Desktop,SQL  
+**Tool:** Power BI Desktop | SQL  
 **Author:** Priya Kumari  
 **Domain:** Commercial Strategy | Market Analysis | Financial Modelling  
 **Status:** Completed
