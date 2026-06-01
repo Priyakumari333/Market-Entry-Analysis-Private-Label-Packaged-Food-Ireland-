@@ -1,4 +1,4 @@
-# 🛒 FMCG Market Entry Analysis — Irish Private Label Packaged Food Market
+# 🛒 FMCG Market Entry Analysis- Irish Private Label Packaged Food Market
 
 **Tool:** Power BI Desktop  
 **Author:** Priya Kumari  
@@ -9,7 +9,7 @@
 
 ## 📌 Business Problem
 
-> *Should an FMCG company enter the Irish private label packaged food market — and if yes, at what price point to ensure at least 30% gross margin while remaining competitive?*
+> *Should an FMCG company enter the Irish private label packaged food market and if yes, at what price point to ensure at least 30% gross margin while remaining competitive?*
 
 A strategic go/no-go decision requiring competitive pricing analysis, demand forecasting, cost structure modelling, and margin optimisation across 5 product lines.
 
@@ -48,7 +48,7 @@ A strategic go/no-go decision requiring competitive pricing analysis, demand for
 | Products meeting 30% margin threshold | 3 out of 5 |
 | Target price vs competitor price | 5–10% lower across all products |
 
-**Highest demand product:** Biscuits (13,000 units/month) — but below margin threshold, requiring cost review before launch.
+**Highest demand product:** Biscuits (13,000 units/month) but below margin threshold, requiring cost review before launch.
 
 **Highest margin product:** Private Label Cornflakes (32.5% gross margin).
 
@@ -89,13 +89,13 @@ A strategic go/no-go decision requiring competitive pricing analysis, demand for
 
 ## 📁 Dashboard Pages
 
-1. **Executive Summary** — KPI cards, urban/rural demand split, margin vs target
-2. **Market Size & Demand Analysis** — product demand urban vs rural, market share by category
-3. **Competitive Pricing Analysis** — target vs competitor price, price sensitivity scatter
-4. **Cost Structure** — cost breakdown by product, total cost components
-5. **Logistic Risk** — logistics cost vs gross margin per product, risk assessment table
-6. **Profitability** — revenue and gross margin by product
-7. **Recommendations** — product decision summary, priorities, timeline
+1. **Executive Summary**- KPI cards, urban/rural demand split, margin vs target
+2. **Market Size & Demand Analysis**- product demand urban vs rural, market share by category
+3. **Competitive Pricing Analysis**- target vs competitor price, price sensitivity scatter
+4. **Cost Structure**- cost breakdown by product, total cost components
+5. **Logistic Risk**— logistics cost vs gross margin per product, risk assessment table
+6. **Profitability**— revenue and gross margin by product
+7. **Recommendations**— product decision summary, priorities, timeline
 
 ---
 
@@ -115,27 +115,16 @@ A strategic go/no-go decision requiring competitive pricing analysis, demand for
 
 1. Open Power BI Desktop
 2. Load the provided dataset (Excel file with product, demand, cost, and pricing data)
-3. Navigate through dashboard pages sequentially — each page builds on the previous
+3. Navigate through dashboard pages sequentially each page builds on the previous
 4. Use slicers to filter by product or region
 5. The Recommendations page provides the final go/no-go decision summary
 
----
-
-## 📂 Files in This Repository
-
-```
-├── README.md
-├── MarketEntryAnalysis.pbix          # Power BI file
-├── Data/
-│   └── FMCG_IrishMarket_Data.xlsx   # Source dataset
-└── Visuals/
-    └── Project1_Visuals.pdf          # Dashboard screenshots
-```
 
 ---
 
 ## 🔗 Connect
 
 **Priya Kumari**  
+**email address- priyamahato2024@gmail.com**
 MSc Business Analytics | University of Limerick  
 [LinkedIn](https://www.linkedin.com/in/priyakumari62) · priyamahato2024@gmail.com
